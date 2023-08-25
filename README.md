@@ -3,7 +3,7 @@ I have tried and created a model of our Hostel network in the packet tracer.
 A hostel network provides internet connectivity and local networking services to residents within a hostel. 
 Cisco Packet Tracer is a simulation tool that allows us to visualize and configure various networking components.
 
-#Components of the Hostel Network:
+# Components of the Hostel Network:
 
 1.Router(2811 router-2)
 
