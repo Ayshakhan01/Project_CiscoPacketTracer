@@ -4,9 +4,13 @@ A hostel network provides internet connectivity and local networking services to
 Cisco Packet Tracer is a simulation tool that allows us to visualize and configure various networking components.
 
 #Components of the Hostel Network:
+
 1.Router(2811 router-2)
+
 2.Switches(2960-switches-4)
+
 3.End-Devices(pc-9,printer-2)
+
 4.Cables(Copper Straight Through cables,Serial DCE cables)
 
 <--REQUIREMENTS-->
