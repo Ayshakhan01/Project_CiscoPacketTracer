@@ -17,6 +17,12 @@ Cisco Packet Tracer is a simulation tool that allows us to visualize and configu
 
 Cisco Packet Tracer
 
+
+# HOSTEL_NETWORK
+
+file:///home/aysha-khan/Pictures/Screenshots/project_cisco.png
+
+
 Explaining a hostel network using Cisco Packet Tracer involves detailing the setup of routers, switches, access points, and client devices to create a functional network that provides internet access and local communication within the hostel environment. 
 It's important to adapt the configuration to the specific requirements and layout of your hostel.
 
