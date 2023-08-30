@@ -20,7 +20,8 @@ Cisco Packet Tracer
 
 # HOSTEL_NETWORK
 
-![Uploading project_cisco.png…](project_cisco.png)
+
+![project_cisco](https://github.com/Ayshakhan01/Project_CiscoPacketTracer/assets/135154793/2fff0230-886f-4da6-a83b-3f0c09960b6b)
 
 
 Explaining a hostel network using Cisco Packet Tracer involves detailing the setup of routers, switches, access points, and client devices to create a functional network that provides internet access and local communication within the hostel environment. 
